@@ -7,6 +7,8 @@ TODO 1:
 TODO 2:
 - membuat halaman baru pada folder /pages
 
+contoh: [https://ngodingo-git-1.vercel.app/](https://ngodingo-git-1.vercel.app/)
+
 ### Langkah
 
 1. fork repo ini pada akun github masing-masing 
