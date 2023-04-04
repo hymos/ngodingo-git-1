@@ -1,0 +1,15 @@
+
+.square {
+  height: 100px;
+  background-color: var(--dark-color);
+  color: antiquewhite;
+  display: flex;
+  justify-content: center;
+}
+
+
+/*
+ * TODO: buat style section sendiri
+ */
+
+ 
