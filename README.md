@@ -1,3 +1,46 @@
+## Latihan Git & Nextjs Dasar
+
+TODO 1:
+- membuat section pada homepage
+- pada section terdapat link navigasi yang mengarah ke suatu halaman
+
+TODO 2:
+- membuat halaman baru pada folder /pages
+
+### Langkah
+
+1. fork repo ini pada akun github masing-masing 
+
+2. clone repository dan install dependency
+
+```bash
+git clone https://github.com/{username}/ngodingo-git-1.git
+cd ngodingo-git-1
+npm install
+```
+
+3. buat branch baru dengan nama kalian
+
+```bash
+git checkout -b [nama]
+```
+
+4. buka VS Code kemudian lakukan TODO 1 dan 2, jangan lupa melakukan commit pada setiap TODO
+
+5. jika sudah selesai, lakukan push ke github
+
+```bash
+git push origin [branch-name]
+```
+
+6. open pull request ke repo asli
+
+
+
+
+---
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
