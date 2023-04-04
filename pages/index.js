@@ -20,6 +20,7 @@ export default function Home() {
         </div>
 
         {/* Sections */}
+        <SectionAlmaas />
 
       </main>
     </>
@@ -32,3 +33,12 @@ export default function Home() {
  * buat section baru kemudian tampilkan di homepage
  */
 
+function SectionAlmaas () {
+  return(
+    <section className={styles.sectionAlmaas}>
+      <h1>Hello World - Almaas</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae dicta eum. Maxime quis expedita totam. Minima tempora unde pariatur eligendi, asperiores laboriosam vel nemo alias earum recusandae dolor culpa.</p>
+      <Link className={styles.linkAlmaas} href="/almaas">My Page {'>'}</Link>
+    </section>
+  )
+}

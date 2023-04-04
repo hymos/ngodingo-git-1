@@ -5,6 +5,7 @@
   color: antiquewhite;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 
@@ -12,4 +13,21 @@
  * TODO: buat style section sendiri
  */
 
- 
+.sectionAlmaas {
+  padding: 40px 56px;
+  background-color: #4f65ea;
+  color: #ffffff;
+}
+
+.linkAlmaas {
+  color: #ffffff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 16px;
+  border: 1px solid #ffffff;
+}
+
+.linkAlmaas:hover {
+  background-color: #ffffff;
+  color: #4f65ea;
+}
